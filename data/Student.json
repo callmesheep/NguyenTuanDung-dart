@@ -1,0 +1,32 @@
+{
+    "students": [
+      {
+        "id": 1,
+        "name": "truong Gia binh",
+        "subjects": [
+          {
+            "name": "Math",
+            "scores": [8, 9, 10]
+          },
+          {
+            "name": "Physics",
+            "scores": [7, 8, 9]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Le Thi B",
+        "subjects": [
+          {
+            "name": "Chemistry",
+            "scores": [8, 9, 10]
+          },
+          {
+            "name": "Biology",
+            "scores": [7, 7, 8]
+          }
+        ]
+      }
+    ]
+  }
